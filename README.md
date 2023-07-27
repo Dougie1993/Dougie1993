@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dougie1993
-- 👀 I’m interested in developing web applications 
-- 🌱 I’m currently learning MEAN stack 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I am a Student at SETU Carlow, Ireland
+- 🌱 I am studying Bsc Honors Software Development
+- 💞️ I enjoy working on Springboot, Angular, Nodejs and Vue applications
 - 📫 How to reach me :email dkadzutu@gmail.com
 
 <!---
